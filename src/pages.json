@@ -1,0 +1,33 @@
+{
+  "pages": [
+    {
+      "path": "pages/home/index",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "塘湾未来社区"
+      }
+    },
+    {
+      "path": "pages/home/linkPage",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "塘湾未来社区"
+      }
+    },
+    {
+      "path": "pages/home/otherDetail",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "塘湾未来社区"
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#000000",
+    "disableScroll": false,
+    "navigationStyle": "custom"
+  }
+}
